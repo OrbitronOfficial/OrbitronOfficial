@@ -10,8 +10,8 @@ Building an **Operating System for Space Exploration** while mastering OS intern
 
 🌍 **Follow My Journey**:  
 🔗 GitHub: [OrbitronOfficial](https://github.com/OrbitronOfficial)  
-🔗 X (Twitter): [@YourTwitterHandle]  
-🔗 LinkedIn: [@YourLinkedIn]  
+🔗 X (Twitter): [[@YourTwitterHandle]  ](https://x.com/YashTheOsDev)
+🔗 LinkedIn: [[@YourLinkedIn]  ](https://www.linkedin.com/in/yash-jain-720621354/)
 
 Let's change the future of computing! 🚀✨  
 
