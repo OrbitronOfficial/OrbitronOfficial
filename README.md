@@ -1,19 +1,18 @@
-# 🚀 OrbitronOfficial - The Future of OS Development! 
+# 🚀 **OrbitronOfficial – Building the Future of OS & AI!**  
 
-Hi, I'm Yash Jain, an OS Developer in the making! 🌌  
-Building an **Operating System for Space Exploration** while mastering OS internals & AI!  
+Hi, I'm **Yash Jain**, an OS developer in the making! 🌌  
+**On a mission to build an Operating System for Space Exploration** while mastering **OS internals & AI!**  
 
-💻 **Current Focus**:  
-🔹 OS Development (Embedded & Kernel)  
-🔹 AI + OS Integration  
-🔹 Building low-level, high-performance systems  
+💻 **What I’m Working On:**  
+🔹 **OS Development** (Embedded, Kernel, Low-Level Systems)  
+🔹 **AI + OS Integration** (Future of Intelligent Computing)  
+🔹 **Building scalable, high-performance systems from scratch**  
 
-🌍 **Follow My Journey**:  
-🔗 GitHub: [OrbitronOfficial](https://github.com/OrbitronOfficial)  
-🔗 X (Twitter): (https://x.com/YashTheOsDev)
-🔗 LinkedIn: (https://www.linkedin.com/in/yash-jain-720621354/)
+🌍 **Follow My Journey & Connect:**  
+🔗 **GitHub:** [OrbitronOfficial](https://github.com/OrbitronOfficial)  
+🔗 **X (Twitter):** [@YashTheOsDev](https://x.com/YashTheOsDev)  
+🔗 **LinkedIn:** [Yash Jain](https://www.linkedin.com/in/yash-jain-720621354/)  
 
-Let's change the future of computing! 🚀✨  
+Let’s **redefine the future of computing** together! 🚀✨  
 
-#OSDevelopment #AI #KernelDev #SpaceTech
-
+#OSDevelopment #AI #KernelDev #SpaceTech #FutureComputing  
