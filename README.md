@@ -1,50 +1,22 @@
-# 👋 Hi, I'm Yash Jain
+<div align="center">
 
-🚀 Product-focused Machine Learning Builder  
-🔍 Focused on real-world automation, lean pipelines, and zero-fluff execution  
-📍 Currently building: **ML Junior** — your first AI-powered ML assistant
+<img src="banner.svg" alt="Yash Jain - ML builder / systems tinkerer" width="100%"/>
 
----
+</div>
 
-## 🧠 What I Do
+## About
 
-I turn complex ML workflows into sharp, minimal, and adaptive systems.  
-I don’t chase trends — I build tools that solve actual problems.
+Building **ML Junior**, an AI assistant that automates ML workflows: preprocessing, model selection, training and explainability. I focus on lean pipelines, clean logic and practical execution.
 
-**Key interests:**
-- ML Pipelines • Model Selection Automation • SHAP / LIME Explainability  
-- System Design • Product Strategy • Deployment & Scale Thinking  
+## Now
 
----
+- Building ML Junior in public
+- Shipping [Northbridge AI Career Coach](https://github.com/OrbitronOfficial/Northbridge-AI-Career-Coach), an evidence-grounded resume and placement-readiness platform
+- Learning low-level systems in [OS_Dev](https://github.com/OrbitronOfficial/OS_Dev)
 
-## 🔧 Currently Building: ML Junior
+<div align="center">
 
-An AI assistant that acts like your junior ML engineer.  
-Fully automates preprocessing, model selection, training, explainability, and memory optimization.
+![Orbitron's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrbitronOfficial&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0d14)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitronOfficial&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0d14)
 
-**Key Goals:**
-- Reduce human effort in ML workflows  
-- Optimize memory without compromising on insights  
-- Build a system smart enough to self-improve over time  
-
-[👉 Check it out here](https://github.com/yourusername/ML-JUNIOR-V1)
-
----
-
-## 📈 What’s Next
-
-- Ship ML Junior V1 in < 30 days  
-- Launch small-scale tests in real workflows  
-- Keep the internals tight, modular, and scale-ready  
-
----
-
-## 🤝 Let’s Connect
-
-If you’re building in ML, automation, or just hungry to move fast —  
-**I’m open to real convos, ideas, and collabs.**
-
-📩 yashjainosdev@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/yash-jain-720621354/)
-
----
+</div>
