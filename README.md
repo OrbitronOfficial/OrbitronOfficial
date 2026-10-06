@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Yash Jain - ML builder, web and AI projects, OS tinkerer" width="100%"/>
+<img src="signature-banner.svg" alt="Yash Jain - ML builder, web and AI projects, OS tinkerer" width="100%"/>
 
 [GitHub](https://github.com/OrbitronOfficial) · [LinkedIn](https://www.linkedin.com/in/yash-jain-720621354/) · [Email](mailto:yashjainosdev@gmail.com)
 
