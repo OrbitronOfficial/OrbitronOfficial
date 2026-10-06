@@ -23,7 +23,7 @@ I build AI tools, automation and websites. Right now that means **ML Junior** (a
 |---|---|
 | ML-JUNIOR-V1 | The junior ML engineer you never hired: automates preprocessing, model selection, training and explainability |
 | edithouse-saas | YouTube creator discovery, enrichment and outreach platform |
-| edithouse-reel-poster | Posts a queued Instagram reel pipeline while the laptop is off |
+| edithouse-reel-poster | Posts the EditHouse reel bot's queued Instagram reels while the laptop is off |
 | [carepath](https://carepath-three.vercel.app) | 3D hospital twin with a triage and medicine bot (live demo) |
 | [noctra-demo](https://noctra-demo.vercel.app) | Demo store: 3D homepage, product pages, cart and checkout (live demo) |
 
