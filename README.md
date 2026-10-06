@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="banner.svg" alt="Yash Jain - ML builder / systems tinkerer" width="100%"/>
+<img src="banner.svg" alt="Yash Jain - ML builder, web and AI projects, OS tinkerer" width="100%"/>
+
+[GitHub](https://github.com/OrbitronOfficial) · [LinkedIn](https://www.linkedin.com/in/yash-jain-720621354/) · [Email](mailto:yashjainosdev@gmail.com)
 
 </div>
 
 ## About
 
-Building **ML Junior**, an AI assistant that automates ML workflows: preprocessing, model selection, training and explainability. I focus on lean pipelines, clean logic and practical execution.
+Building **ML Junior**, an AI assistant that automates ML workflows: preprocessing, model selection, training and explainability. I focus on lean pipelines, clean logic and practical execution, and I build websites and AI tools for clients.
 
-## Now
+## Projects
 
-- Building ML Junior in public
-- Shipping [Northbridge AI Career Coach](https://github.com/OrbitronOfficial/Northbridge-AI-Career-Coach), an evidence-grounded resume and placement-readiness platform
-- Learning low-level systems in [OS_Dev](https://github.com/OrbitronOfficial/OS_Dev)
-
-<div align="center">
-
-![Orbitron's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrbitronOfficial&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0d14)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitronOfficial&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0d14)
-
-</div>
+- [Northbridge AI Career Coach](https://github.com/OrbitronOfficial/Northbridge-AI-Career-Coach): evidence-grounded resume analysis, placement readiness and a roadmap to 100%
+- [CarePath](https://carepath-three.vercel.app): 3D hospital twin with a triage and medicine bot
+- [NOCTRA](https://noctra-demo.vercel.app): demo store built for a brand
+- [OS_Dev](https://github.com/OrbitronOfficial/OS_Dev): hobby operating system in Assembly
