@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="wow-profile-v3.svg" alt="Yash Jain - ML builder / systems tinkerer" width="100%"/>
+<img src="wow-profile-v4.svg" alt="Yash Jain - ML builder / systems tinkerer" width="100%"/>
 
 </div>
 
