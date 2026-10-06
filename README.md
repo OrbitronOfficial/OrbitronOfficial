@@ -29,8 +29,8 @@ I build AI tools, automation and websites. Right now that means **ML Junior** (a
 
 ## Skills
 
-**Languages:** Python, JavaScript, HTML/CSS, Assembly, Shell
-**Build and ship:** ML pipelines, AI agents, automation bots, web apps, Python serverless, Vercel, Git
+- **Languages:** Python, JavaScript, HTML/CSS, Assembly, Shell
+- **Build and ship:** ML pipelines, AI agents, automation bots, web apps, Python serverless, Vercel, Git
 
 <div align="center">
 
